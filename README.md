@@ -1,7 +1,7 @@
 # Society-Management-System
 
 
-Welcome to the Dream Society Management System, an advanced C++ program designed to revolutionize the management of residential communities. This system offers a comprehensive suite of features aimed at simplifying society operations, ensuring a seamless living experience for all residents.
+Welcome to the Vishwakarma Society Management System, an advanced C++ program designed to revolutionize the management of residential communities. This system offers a comprehensive suite of features aimed at simplifying society operations, ensuring a seamless living experience for all residents.
 
 Features
 Member Information Management 📋
