@@ -30,3 +30,5 @@ For questions, feedback, or collaboration opportunities, feel free to contact vi
 Email: vishwakarmapooja1826@gmail.com
 LinkedIn: https://www.linkedin.com/in/pooja-vishwakarma-091079250)https://www.linkedin.com/in/pooja-vishwakarma-091079250
 GitHub: https://github.com/PoojaVishwakarma0402)https://github.com/PoojaVishwakarma0402
+LinkedIn: Pooja Vishwakarma
+GitHub: PoojaVishwakarma0402
